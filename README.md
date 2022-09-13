@@ -1,3 +1,7 @@
 # TEST PUSH OFFLINE REPO
 
-Pushing loca machine repo to github
+Pushing local machine repo to github.
+
+## TEST UPDATE
+
+Updating repo.
